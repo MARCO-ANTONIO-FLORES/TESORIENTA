@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">app Escolar</string>
+    <string name="title_activity_main">app Escolar</string>
+    <string name="package_name">com.escolar.app</string>
+    <string name="custom_url_scheme">com.escolar.app</string>
+</resources>
